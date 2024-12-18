@@ -1,0 +1,1988 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 16000px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  width: 2972px;
+  height: 16013px;
+  left: -358px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1840px;
+  height: 16000px;
+  top: 0;
+  left: 358px;
+  background-color: #222222;
+}
+
+.frame .IMG {
+  width: 1920px;
+  height: 1048px;
+  top: 56px;
+  left: 358px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .div {
+  position: absolute;
+  width: 1920px;
+  height: 1675px;
+  top: 1104px;
+  left: 358px;
+  background-color: #232323;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  top: 5812px;
+  left: 358px;
+  background-color: #232323;
+}
+
+.frame .img {
+  position: absolute;
+  width: 697px;
+  height: 1079px;
+  top: 0;
+  left: 989px;
+  object-fit: cover;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 1920px;
+  height: 186px;
+  top: 0;
+  left: 358px;
+  background-color: #232323;
+  opacity: 0.2;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 1874px;
+  height: 292px;
+  top: 1158px;
+  left: 404px;
+  background-color: #d9d9d91a;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  width: 1160px;
+  height: 52px;
+  top: 1988px;
+  left: 1118px;
+  background-color: #5f5f5f;
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  width: 2085px;
+  height: 50px;
+  top: 4361px;
+  left: 341px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-7 {
+  position: absolute;
+  width: 1250px;
+  height: 208px;
+  top: 857px;
+  left: 1028px;
+}
+
+.frame .rectangle-8 {
+  position: absolute;
+  width: 457px;
+  height: 751px;
+  top: 4980px;
+  left: 1741px;
+  background-color: #ffffff;
+}
+
+.frame .rectangle-9 {
+  position: absolute;
+  width: 1646px;
+  height: 1379px;
+  top: 5988px;
+  left: 632px;
+  background-color: #464646;
+}
+
+.frame .rectangle-10 {
+  position: absolute;
+  width: 1920px;
+  height: 196px;
+  top: 6901px;
+  left: 358px;
+  background-color: #000000;
+}
+
+.frame .rectangle-11 {
+  position: absolute;
+  width: 1087px;
+  height: 202px;
+  top: 4442px;
+  left: 1191px;
+  background-color: #d9d9d9cc;
+}
+
+.frame .ellipse {
+  position: absolute;
+  width: 1309px;
+  height: 1387px;
+  top: 7435px;
+  left: 969px;
+  background-color: #d9d9d9;
+  border-radius: 654.5px / 693.5px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.frame .IMG-2 {
+  position: absolute;
+  width: 876px;
+  height: 1379px;
+  top: 5988px;
+  left: 1402px;
+  object-fit: cover;
+}
+
+.frame .rectangle-12 {
+  position: absolute;
+  width: 361px;
+  height: 2104px;
+  top: 10843px;
+  left: 1917px;
+  background-color: #a7a7a7;
+}
+
+.frame .rectangle-13 {
+  position: absolute;
+  width: 1920px;
+  height: 632px;
+  top: 13249px;
+  left: 358px;
+  background-color: #000000;
+}
+
+.frame .rectangle-14 {
+  position: absolute;
+  width: 1639px;
+  height: 317px;
+  top: 14133px;
+  left: 639px;
+  background-color: #d9d9d9b2;
+}
+
+.frame .rectangle-15 {
+  position: absolute;
+  width: 1639px;
+  height: 13px;
+  top: 14437px;
+  left: 639px;
+  background-color: #d9d9d9b2;
+}
+
+.frame .rectangle-16 {
+  position: absolute;
+  width: 1639px;
+  height: 13px;
+  top: 13868px;
+  left: 639px;
+  background-color: #d9d9d9b2;
+}
+
+.frame .ellipse-2 {
+  position: absolute;
+  width: 1430px;
+  height: 1430px;
+  top: 14450px;
+  left: 1542px;
+  background-color: #d9d9d9;
+  border-radius: 715px;
+}
+
+.frame .ellipse-3 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 5581px;
+  left: 1588px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+}
+
+.frame .ellipse-4 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 11312px;
+  left: 2047px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+}
+
+.frame .ellipse-5 {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 11009px;
+  left: 909px;
+  background-color: #d9d9d999;
+  border-radius: 34px;
+}
+
+.frame .rectangle-17 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 4644px;
+  left: 2096px;
+  background-color: #252525;
+}
+
+.frame .IMG-3 {
+  position: absolute;
+  width: 478px;
+  height: 1078px;
+  top: 0;
+  left: 550px;
+  object-fit: cover;
+}
+
+.frame .rectangle-18 {
+  position: absolute;
+  width: 1646px;
+  height: 238px;
+  top: 756px;
+  left: 550px;
+  background-color: #232323cc;
+}
+
+.frame .rectangle-19 {
+  position: absolute;
+  width: 1335px;
+  height: 1965px;
+  top: 0;
+  left: 715px;
+  background-color: #d9d9d9;
+  opacity: 0.2;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 914px;
+  top: 693px;
+  left: 725px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .IMG-4 {
+  width: 420px;
+  height: 192px;
+  top: 665px;
+  left: 1778px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .IMG-5 {
+  width: 592px;
+  height: 31px;
+  top: 603px;
+  left: 1686px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .IMG-6 {
+  width: 296px;
+  height: 31px;
+  top: 410px;
+  left: 1982px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .IMG-7 {
+  width: 227px;
+  height: 65px;
+  top: 506px;
+  left: 1572px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  width: 1277px;
+  top: 777px;
+  left: 712px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 250px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .IMG-8 {
+  width: 227px;
+  height: 65px;
+  top: 441px;
+  left: 1825px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-20 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 568px;
+  background-color: #000000;
+}
+
+.frame .rectangle-21 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 698px;
+  background-color: #000000;
+}
+
+.frame .rectangle-22 {
+  position: absolute;
+  width: 387px;
+  height: 524px;
+  top: 2917px;
+  left: 1118px;
+  background-color: #7b7b7b;
+}
+
+.frame .rectangle-23 {
+  position: absolute;
+  width: 71px;
+  height: 35px;
+  top: 27px;
+  left: 828px;
+  background-color: #000000;
+}
+
+.frame .rectangle-24 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 958px;
+  background-color: #000000;
+}
+
+.frame .rectangle-25 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 1088px;
+  background-color: #000000;
+}
+
+.frame .rectangle-26 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 1218px;
+  background-color: #000000;
+}
+
+.frame .rectangle-27 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 1348px;
+  background-color: #000000;
+}
+
+.frame .rectangle-28 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 1478px;
+  background-color: #000000;
+}
+
+.frame .rectangle-29 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 1608px;
+  background-color: #000000;
+}
+
+.frame .rectangle-30 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 1738px;
+  background-color: #000000;
+}
+
+.frame .rectangle-31 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 1868px;
+  background-color: #000000;
+}
+
+.frame .rectangle-32 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 27px;
+  left: 1998px;
+  background-color: #000000;
+}
+
+.frame .rectangle-33 {
+  position: absolute;
+  width: 15px;
+  height: 1px;
+  top: 1087px;
+  left: 886px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-34 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1012px;
+  left: 568px;
+  background-color: #000000;
+}
+
+.frame .rectangle-35 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1012px;
+  left: 698px;
+  background-color: #000000;
+}
+
+.frame .rectangle-36 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 1998px;
+  background-color: #000000;
+}
+
+.frame .rectangle-37 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 1868px;
+  background-color: #000000;
+}
+
+.frame .rectangle-38 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 1738px;
+  background-color: #000000;
+}
+
+.frame .rectangle-39 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 1608px;
+  background-color: #000000;
+}
+
+.frame .rectangle-40 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 1478px;
+  background-color: #000000;
+}
+
+.frame .rectangle-41 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 1348px;
+  background-color: #000000;
+}
+
+.frame .rectangle-42 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 1218px;
+  background-color: #000000;
+}
+
+.frame .rectangle-43 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 1088px;
+  background-color: #000000;
+}
+
+.frame .rectangle-44 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 958px;
+  background-color: #000000;
+}
+
+.frame .rectangle-45 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 828px;
+  background-color: #000000;
+}
+
+.frame .rectangle-46 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 698px;
+  background-color: #000000;
+}
+
+.frame .rectangle-47 {
+  position: absolute;
+  width: 70px;
+  height: 35px;
+  top: 1016px;
+  left: 568px;
+  background-color: #000000;
+}
+
+.frame .IMG-9 {
+  position: absolute;
+  width: 714px;
+  height: 2061px;
+  top: 1104px;
+  left: 404px;
+  object-fit: cover;
+}
+
+.frame .IMG-10 {
+  position: absolute;
+  width: 663px;
+  height: 662px;
+  top: 1280px;
+  left: 1118px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  width: 449px;
+  top: 1212px;
+  left: 1450px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .rectangle-48 {
+  position: absolute;
+  width: 692px;
+  height: 877px;
+  top: 2040px;
+  left: 1506px;
+  background-color: #000000;
+}
+
+.frame .a-king-in-new-york {
+  position: absolute;
+  width: 511px;
+  top: 2101px;
+  left: 1585px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-49 {
+  position: absolute;
+  width: 15px;
+  height: 3480px;
+  top: 0;
+  left: 404px;
+  background-color: #d9d9d9;
+}
+
+.frame .ellipse-6 {
+  position: absolute;
+  width: 747px;
+  height: 747px;
+  top: 5142px;
+  left: 913px;
+  border-radius: 373.5px;
+  border: 5px solid;
+  border-color: #ffffff;
+}
+
+.frame .IMG-11 {
+  position: absolute;
+  width: 833px;
+  height: 1080px;
+  top: 4411px;
+  left: 358px;
+  object-fit: cover;
+}
+
+.frame .IMG-12 {
+  position: absolute;
+  width: 603px;
+  height: 603px;
+  top: 5210px;
+  left: 985px;
+  object-fit: cover;
+}
+
+.frame .ellipse-7 {
+  position: absolute;
+  width: 402px;
+  height: 402px;
+  top: 4185px;
+  left: 358px;
+  border-radius: 201px;
+  border: 3px solid;
+  border-color: #ffffff;
+}
+
+.frame .ellipse-8 {
+  position: absolute;
+  width: 179px;
+  height: 179px;
+  top: 5634px;
+  left: 1548px;
+  border-radius: 89.5px;
+  border: 2px solid;
+  border-color: #d9d9d9;
+}
+
+.frame .ellipse-9 {
+  position: absolute;
+  width: 301px;
+  height: 301px;
+  top: 5002px;
+  left: 1045px;
+  border-radius: 150.5px;
+  border: 2px solid;
+  border-color: #d9d9d9;
+}
+
+.frame .mask-group {
+  position: absolute;
+  width: 620px;
+  height: 916px;
+  top: 3445px;
+  left: 498px;
+  background-image: url(./img/union.svg);
+  background-size: 100% 100%;
+}
+
+.frame .rectangle-50 {
+  position: absolute;
+  width: 18px;
+  height: 5403px;
+  top: 1104px;
+  left: 2198px;
+  background-color: #d9d9d9;
+}
+
+.frame .modern-times-is-a {
+  position: absolute;
+  width: 580px;
+  top: 3570px;
+  left: 518px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #e3e3e3;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .ellipse-10 {
+  position: absolute;
+  width: 182px;
+  height: 182px;
+  top: 4303px;
+  left: 411px;
+  background-color: #232323;
+  border-radius: 91px;
+  opacity: 0.6;
+}
+
+.frame .ellipse-11 {
+  position: absolute;
+  width: 414px;
+  height: 414px;
+  top: 1574px;
+  left: 1781px;
+  background-color: #0f0f0f;
+  border-radius: 207px;
+}
+
+.frame .ellipse-12 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 2228px;
+  left: 1271px;
+  background-color: #ffffff;
+  border-radius: 35px;
+}
+
+.frame .ellipse-13 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 2368px;
+  left: 1271px;
+  background-color: #ffffff;
+  border-radius: 35px;
+}
+
+.frame .rectangle-51 {
+  position: absolute;
+  width: 127px;
+  height: 289px;
+  top: 1450px;
+  left: 1988px;
+  background-color: #d9d9d9;
+  opacity: 0.3;
+}
+
+.frame .rectangle-52 {
+  position: absolute;
+  width: 8px;
+  height: 4493px;
+  top: 5491px;
+  left: 414px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-53 {
+  position: absolute;
+  width: 1864px;
+  height: 153px;
+  top: 5812px;
+  left: 414px;
+  background-color: #d9d9d9;
+  opacity: 0.5;
+}
+
+.frame .ellipse-14 {
+  position: absolute;
+  width: 127px;
+  height: 127px;
+  top: 1739px;
+  left: 1988px;
+  background-color: #b1b1b1;
+  border-radius: 63.5px;
+}
+
+.frame .ellipse-15 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 2298px;
+  left: 1271px;
+  background-color: #ffffff;
+  border-radius: 35px;
+}
+
+.frame .ellipse-16 {
+  position: absolute;
+  width: 387px;
+  height: 397px;
+  top: 2228px;
+  left: 1118px;
+  border-radius: 193.5px / 198.5px;
+  border: 3px solid;
+  border-color: #565656;
+}
+
+.frame .rectangle-54 {
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  top: 3445px;
+  left: 358px;
+  background-color: #7b7b7b;
+}
+
+.frame .rectangle-55 {
+  position: absolute;
+  width: 129px;
+  height: 877px;
+  top: 2040px;
+  left: 1142px;
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+
+.frame .rectangle-56 {
+  position: absolute;
+  width: 174px;
+  height: 174px;
+  top: 8556px;
+  left: 1594px;
+  background-color: #222222;
+}
+
+.frame .rectangle-57 {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 8737px;
+  left: 1604px;
+  background-color: #222222;
+}
+
+.frame .IMG-13 {
+  position: absolute;
+  width: 648px;
+  height: 1393px;
+  top: 7437px;
+  left: 941px;
+  object-fit: cover;
+}
+
+.frame .rectangle-58 {
+  position: absolute;
+  width: 221px;
+  height: 221px;
+  top: 7516px;
+  left: 1585px;
+  background-color: #222222;
+}
+
+.frame .rectangle-59 {
+  position: absolute;
+  width: 1113px;
+  height: 1193px;
+  top: 8822px;
+  left: 1165px;
+  background-color: #000000;
+}
+
+.frame .rectangle-60 {
+  position: absolute;
+  width: 129px;
+  height: 906px;
+  top: 9090px;
+  left: 945px;
+  background-color: #272727;
+}
+
+.frame .rectangle-61 {
+  position: absolute;
+  width: 129px;
+  height: 993px;
+  top: 8991px;
+  left: 554px;
+  background-color: #363636;
+}
+
+.frame .rectangle-62 {
+  position: absolute;
+  width: 113px;
+  height: 2629px;
+  top: 7367px;
+  left: 815px;
+  background-color: #595959;
+}
+
+.frame .rectangle-63 {
+  position: absolute;
+  width: 37px;
+  height: 465px;
+  top: 9531px;
+  left: 761px;
+  background-color: #595959;
+}
+
+.frame .rectangle-64 {
+  position: absolute;
+  width: 37px;
+  height: 766px;
+  top: 9218px;
+  left: 494px;
+  background-color: #8e8e8e;
+}
+
+.frame .rectangle-65 {
+  position: absolute;
+  width: 9px;
+  height: 779px;
+  top: 9218px;
+  left: 1082px;
+  background-color: #c0c0c0;
+}
+
+.frame .rectangle-66 {
+  position: absolute;
+  width: 43px;
+  height: 712px;
+  top: 9285px;
+  left: 1098px;
+  background-color: #727272;
+}
+
+.frame .rectangle-67 {
+  position: absolute;
+  width: 67px;
+  height: 1143px;
+  top: 8841px;
+  left: 618px;
+  background-color: #999999;
+}
+
+.frame .rectangle-68 {
+  position: absolute;
+  width: 45px;
+  height: 2887px;
+  top: 7097px;
+  left: 430px;
+  background-color: #838383;
+}
+
+.frame .IMG-14 {
+  position: absolute;
+  width: 1317px;
+  height: 2142px;
+  top: 11107px;
+  left: 659px;
+  object-fit: cover;
+}
+
+.frame .ellipse-17 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 12770px;
+  left: 1646px;
+  background-color: #d9d9d9;
+  border-radius: 75px;
+}
+
+.frame .ellipse-18 {
+  position: absolute;
+  width: 572px;
+  height: 572px;
+  top: 12219px;
+  left: 1976px;
+  background-color: #757575;
+  border-radius: 286px;
+  opacity: 0.7;
+}
+
+.frame .ellipse-19 {
+  position: absolute;
+  width: 321px;
+  height: 321px;
+  top: 12884px;
+  left: 1246px;
+  border-radius: 160.5px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.frame .ellipse-20 {
+  position: absolute;
+  width: 630px;
+  height: 630px;
+  top: 7642px;
+  left: 485px;
+  background-color: #d9d9d966;
+  border-radius: 315px;
+}
+
+.frame .ellipse-21 {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: 12796px;
+  left: 1469px;
+  background-color: #222222;
+  border-radius: 150px;
+  opacity: 0.8;
+}
+
+.frame .rectangle-69 {
+  position: absolute;
+  width: 152px;
+  height: 1500px;
+  top: 11749px;
+  left: 358px;
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+
+.frame .rectangle-70 {
+  position: absolute;
+  width: 248px;
+  height: 241px;
+  top: 12747px;
+  left: 411px;
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+
+.frame .rectangle-71 {
+  position: absolute;
+  width: 24px;
+  height: 2141px;
+  top: 10847px;
+  left: 463px;
+  background-color: #ffffff;
+  transform: rotate(180deg);
+  opacity: 0.4;
+}
+
+.frame .ellipse-22 {
+  position: absolute;
+  width: 1917px;
+  height: 1917px;
+  top: 11108px;
+  left: 130px;
+  border-radius: 958.5px;
+  border: 4px solid;
+  border-color: #000000;
+}
+
+.frame .ellipse-23 {
+  position: absolute;
+  width: 334px;
+  height: 334px;
+  top: 7922px;
+  left: 594px;
+  background-color: #444444;
+  border-radius: 167px;
+}
+
+.frame .ellipse-24 {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  top: 11238px;
+  left: 659px;
+  background-color: #222222;
+  border-radius: 150px;
+}
+
+.frame .ellipse-25 {
+  position: absolute;
+  width: 302px;
+  height: 302px;
+  top: 11337px;
+  left: 1838px;
+  background-color: #d9d9d9;
+  border-radius: 151px;
+  opacity: 0.6;
+}
+
+.frame .rectangle-72 {
+  position: absolute;
+  width: 210px;
+  height: 210px;
+  top: 5988px;
+  left: 422px;
+  background-color: #d9d9d9;
+}
+
+.frame .ellipse-26 {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 6101px;
+  left: 527px;
+  background-color: #111111;
+  border-radius: 48.5px;
+}
+
+.frame .ellipse-27 {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 6198px;
+  left: 427px;
+  background-color: #4c4c4c;
+  border-radius: 48.5px;
+}
+
+.frame .ellipse-28 {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 6384px;
+  left: 358px;
+  background-color: #858585;
+  border-radius: 48.5px;
+}
+
+.frame .ellipse-29 {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 6599px;
+  left: 366px;
+  background-color: #aaaaaa;
+  border-radius: 48.5px;
+}
+
+.frame .ellipse-30 {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 6842px;
+  left: 475px;
+  background-color: #c5c5c5;
+  border-radius: 48.5px;
+}
+
+.frame .ellipse-31 {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 6950px;
+  left: 752px;
+  background-color: #e4e4e4;
+  border-radius: 48.5px;
+}
+
+.frame .ellipse-32 {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 6890px;
+  left: 1115px;
+  background-color: #e4e4e4;
+  border-radius: 48.5px;
+}
+
+.frame .ellipse-33 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 5450px;
+  left: 863px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+}
+
+.frame .rectangle-73 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 3465px;
+  left: 378px;
+  background-color: #111111;
+}
+
+.frame .ellipse-34 {
+  position: absolute;
+  width: 127px;
+  height: 127px;
+  top: 3078px;
+  left: 1505px;
+  background-color: #9f9f9f;
+  border-radius: 63.5px;
+  opacity: 0.5;
+}
+
+.frame .ellipse-35 {
+  position: absolute;
+  width: 127px;
+  height: 127px;
+  top: 3078px;
+  left: 1632px;
+  background-color: #9f9f9f;
+  border-radius: 63.5px;
+  opacity: 0.5;
+}
+
+.frame .ellipse-36 {
+  position: absolute;
+  width: 127px;
+  height: 127px;
+  top: 3078px;
+  left: 1759px;
+  background-color: #9f9f9f;
+  border-radius: 63.5px;
+  opacity: 0.5;
+}
+
+.frame .ellipse-37 {
+  position: absolute;
+  width: 127px;
+  height: 127px;
+  top: 3078px;
+  left: 1886px;
+  background-color: #9f9f9f;
+  border-radius: 63.5px;
+  opacity: 0.5;
+}
+
+.frame .ellipse-38 {
+  position: absolute;
+  width: 127px;
+  height: 127px;
+  top: 3078px;
+  left: 2013px;
+  background-color: #9f9f9f;
+  border-radius: 63.5px;
+  opacity: 0.5;
+}
+
+.frame .ellipse-39 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 3129px;
+  left: 1556px;
+  background-color: #efefef;
+  border-radius: 12px;
+  opacity: 0.5;
+}
+
+.frame .ellipse-40 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 3129px;
+  left: 1683px;
+  background-color: #efefef;
+  border-radius: 12px;
+  opacity: 0.5;
+}
+
+.frame .ellipse-41 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 3129px;
+  left: 1810px;
+  background-color: #efefef;
+  border-radius: 12px;
+  opacity: 0.5;
+}
+
+.frame .ellipse-42 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 3129px;
+  left: 1937px;
+  background-color: #efefef;
+  border-radius: 12px;
+  opacity: 0.5;
+}
+
+.frame .ellipse-43 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 3129px;
+  left: 2064px;
+  background-color: #efefef;
+  border-radius: 12px;
+  opacity: 0.5;
+}
+
+.frame .rectangle-74 {
+  position: absolute;
+  width: 2px;
+  height: 59px;
+  top: 3082px;
+  left: 1567px;
+  background-color: #111111;
+}
+
+.frame .rectangle-75 {
+  position: absolute;
+  width: 2px;
+  height: 59px;
+  top: 3082px;
+  left: 1694px;
+  background-color: #111111;
+}
+
+.frame .rectangle-76 {
+  position: absolute;
+  width: 2px;
+  height: 59px;
+  top: 3082px;
+  left: 1821px;
+  background-color: #111111;
+}
+
+.frame .rectangle-77 {
+  position: absolute;
+  width: 2px;
+  height: 59px;
+  top: 3082px;
+  left: 1948px;
+  background-color: #111111;
+}
+
+.frame .rectangle-78 {
+  position: absolute;
+  width: 2px;
+  height: 59px;
+  top: 3082px;
+  left: 2075px;
+  background-color: #111111;
+}
+
+.frame .rectangle-79 {
+  position: absolute;
+  width: 2px;
+  height: 28px;
+  top: 3116px;
+  left: 1576px;
+  background-color: #111111;
+  transform: rotate(37.66deg);
+}
+
+.frame .rectangle-80 {
+  position: absolute;
+  width: 2px;
+  height: 28px;
+  top: 3116px;
+  left: 1703px;
+  background-color: #111111;
+  transform: rotate(37.66deg);
+}
+
+.frame .rectangle-81 {
+  position: absolute;
+  width: 2px;
+  height: 28px;
+  top: 3116px;
+  left: 1830px;
+  background-color: #111111;
+  transform: rotate(37.66deg);
+}
+
+.frame .rectangle-82 {
+  position: absolute;
+  width: 2px;
+  height: 28px;
+  top: 3116px;
+  left: 1957px;
+  background-color: #111111;
+  transform: rotate(37.66deg);
+}
+
+.frame .rectangle-83 {
+  position: absolute;
+  width: 2px;
+  height: 28px;
+  top: 3116px;
+  left: 2084px;
+  background-color: #111111;
+  transform: rotate(37.66deg);
+}
+
+.frame .ellipse-44 {
+  position: absolute;
+  width: 386px;
+  height: 386px;
+  top: 2986px;
+  left: 1113px;
+  background-color: #9f9f9f;
+  border-radius: 193.1px;
+  transform: rotate(165deg);
+  opacity: 0.5;
+}
+
+.frame .ellipse-45 {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  top: 3143px;
+  left: 1270px;
+  background-color: #efefef;
+  border-radius: 36.88px;
+  transform: rotate(165deg);
+  opacity: 0.5;
+}
+
+.frame .rectangle-84 {
+  position: absolute;
+  width: 7px;
+  height: 182px;
+  top: 3176px;
+  left: 1327px;
+  background-color: #111111;
+  transform: rotate(165deg);
+}
+
+.frame .rectangle-85 {
+  position: absolute;
+  width: 7px;
+  height: 85px;
+  top: 3178px;
+  left: 1287px;
+  background-color: #111111;
+  transform: rotate(-157.34deg);
+}
+
+.frame .rectangle-86 {
+  position: absolute;
+  width: 387px;
+  height: 218px;
+  top: 4035px;
+  left: 1118px;
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+
+.frame .rectangle-87 {
+  position: absolute;
+  width: 387px;
+  height: 7px;
+  top: 4271px;
+  left: 1118px;
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+
+.frame .IMG-15 {
+  position: absolute;
+  width: 850px;
+  height: 1139px;
+  top: 8822px;
+  left: 1348px;
+  object-fit: cover;
+}
+
+.frame .ellipse-46 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 12696px;
+  left: 359px;
+  background-color: #515151;
+  border-radius: 50px;
+}
+
+.frame .rectangle-88 {
+  position: absolute;
+  width: 702px;
+  height: 870px;
+  top: 14319px;
+  left: 757px;
+  background-color: #4b4b4b;
+}
+
+.frame .rectangle-89 {
+  position: absolute;
+  width: 1239px;
+  height: 808px;
+  top: 15205px;
+  left: 0;
+  background-color: #383838;
+}
+
+.frame .rectangle-90 {
+  position: absolute;
+  width: 642px;
+  height: 934px;
+  top: 14209px;
+  left: 676px;
+  background-color: #fbfbfb;
+}
+
+.frame .rectangle-91 {
+  position: absolute;
+  width: 650px;
+  height: 630px;
+  top: 13249px;
+  left: 992px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-92 {
+  position: absolute;
+  width: 653px;
+  height: 974px;
+  top: 14163px;
+  left: 658px;
+  background-color: #696969;
+}
+
+.frame .rectangle-93 {
+  position: absolute;
+  width: 721px;
+  height: 1021px;
+  top: 13973px;
+  left: 456px;
+  background-color: #a6a6a6;
+}
+
+.frame .IMG-16 {
+  position: absolute;
+  width: 757px;
+  height: 1051px;
+  top: 13926px;
+  left: 408px;
+  object-fit: cover;
+}
+
+.frame .ellipse-47 {
+  position: absolute;
+  width: 635px;
+  height: 635px;
+  top: 13249px;
+  left: 358px;
+  background-color: #777474;
+  border-radius: 317.5px;
+}
+
+.frame .ellipse-48 {
+  position: absolute;
+  width: 252px;
+  height: 252px;
+  top: 13879px;
+  left: 1946px;
+  background-color: #d9d9d9;
+  border-radius: 126px;
+}
+
+.frame .ellipse-49 {
+  position: absolute;
+  width: 118px;
+  height: 40px;
+  top: 14085px;
+  left: 2010px;
+  background-color: #222222;
+  border-radius: 59px / 20px;
+}
+
+.frame .rectangle-94 {
+  position: absolute;
+  width: 1920px;
+  height: 76px;
+  top: 15924px;
+  left: 358px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-95 {
+  position: absolute;
+  width: 1920px;
+  height: 7px;
+  top: 15907px;
+  left: 358px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-96 {
+  position: absolute;
+  width: 860px;
+  height: 421px;
+  top: 4559px;
+  left: 1338px;
+  background-color: #454545;
+}
+
+.frame .the-kid-is-a {
+  position: absolute;
+  width: 815px;
+  top: 4598px;
+  left: 1360px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #cccccc;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .span {
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #cccccc;
+  font-size: 35px;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-4 {
+  text-decoration: underline;
+}
+
+.frame .city-lights-is-a {
+  position: absolute;
+  width: 376px;
+  top: 5008px;
+  left: 1789px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #605f5f;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-5 {
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #605f5f;
+  font-size: 35px;
+  letter-spacing: 0;
+}
+
+.frame .a-dog-s-life-is-a {
+  position: absolute;
+  width: 642px;
+  top: 6059px;
+  left: 709px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-6 {
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 35px;
+  letter-spacing: 0;
+}
+
+.frame .p {
+  position: absolute;
+  width: 486px;
+  top: 7789px;
+  left: 1621px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-97 {
+  position: absolute;
+  width: 1576px;
+  height: 691px;
+  top: 9984px;
+  left: 531px;
+  background-color: #d9d9d9;
+}
+
+.frame .deposed-by {
+  position: absolute;
+  width: 1317px;
+  top: 10007px;
+  left: 659px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle-98 {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  top: 10675px;
+  left: 1917px;
+  background-color: #959595;
+}
+
+.frame .rectangle-99 {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  top: 10675px;
+  left: 554px;
+  background-color: #959595;
+}
+
+.frame .rectangle-100 {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  top: 10675px;
+  left: 2110px;
+  background-color: #5c5c5c;
+}
+
+.frame .rectangle-101 {
+  position: absolute;
+  width: 172px;
+  height: 172px;
+  top: 10675px;
+  left: 359px;
+  background-color: #d9d9d9;
+}
+
+.frame .text-wrapper-7 {
+  position: absolute;
+  width: 441px;
+  top: 13434px;
+  left: 456px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .the-film-stars {
+  position: absolute;
+  width: 577px;
+  top: 13285px;
+  left: 1028px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #4e4e4e;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .however-the-film-was {
+  position: absolute;
+  width: 410px;
+  top: 13285px;
+  left: 1763px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .the-production-of {
+  position: absolute;
+  width: 801px;
+  top: 15326px;
+  left: 401px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .the-circus-is-a {
+  position: absolute;
+  width: 467px;
+  top: 14772px;
+  left: 1751px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .ellipse-50 {
+  position: absolute;
+  width: 692px;
+  height: 692px;
+  top: 15264px;
+  left: 1586px;
+  background-color: #0c0c0cb2;
+  border-radius: 346px;
+}
+
+.frame .ellipse-51 {
+  position: absolute;
+  width: 293px;
+  height: 293px;
+  top: 15216px;
+  left: 1330px;
+  background-color: #0c0c0cb2;
+  border-radius: 146.5px;
+}
+
+.frame .ellipse-52 {
+  position: absolute;
+  width: 293px;
+  height: 293px;
+  top: 14641px;
+  left: 1395px;
+  background-color: #0c0c0cb2;
+  border-radius: 146.5px;
+}
+
+.frame .ellipse-53 {
+  position: absolute;
+  width: 519px;
+  height: 519px;
+  top: 14133px;
+  left: 1518px;
+  background-color: #0c0c0cb2;
+  border-radius: 259.5px;
+}
+
+.frame .ellipse-54 {
+  position: absolute;
+  width: 159px;
+  height: 159px;
+  top: 15069px;
+  left: 1510px;
+  background-color: #0c0c0cb2;
+  border-radius: 79.5px;
+}
+
+.frame .ellipse-55 {
+  position: absolute;
+  width: 105px;
+  height: 105px;
+  top: 14668px;
+  left: 1688px;
+  background-color: #0c0c0cb2;
+  border-radius: 52.5px;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  top: 749px;
+  left: 717px;
+  font-family: "Jim Nightshade", Helvetica;
+  font-weight: 400;
+  color: #dedede;
+  font-size: 250px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .IMG-17 {
+  position: absolute;
+  width: 773px;
+  height: 1156px;
+  top: 3205px;
+  left: 1505px;
+  object-fit: cover;
+}
+
+.frame .ellipse-56 {
+  position: absolute;
+  width: 408px;
+  height: 408px;
+  top: 11080px;
+  left: 358px;
+  border-radius: 204px;
+  border: 4px solid;
+  border-color: #ffffff;
+}
+
+.frame .ellipse-57 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 11057px;
+  left: 859px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+}
+
+.frame .ellipse-58 {
+  position: absolute;
+  width: 196px;
+  height: 196px;
+  top: 10847px;
+  left: 1721px;
+  background-color: #d9d9d9;
+  border-radius: 98px;
+}
+.jim-nightshade-regular {
+  font-family: "Jim Nightshade", serif;
+  font-weight: 400;
+  font-style: normal;
+}
